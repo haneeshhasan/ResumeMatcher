@@ -1,0 +1,15 @@
+Name: John Doe
+Email: john.doe@email.com
+
+Education:
+B.Tech in Computer Science, 2023
+
+Skills:
+Java, SQL, Spring, HTML, CSS, JavaScript
+
+Projects:
+1. Food Delivery App using Java and MySQL
+2. Resume Parser Project
+
+Experience:
+Internship at XYZ Software as Java Intern
